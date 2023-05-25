@@ -25,10 +25,12 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import interra from "./company/interra.png";
 
 import linkedin from "./linkedin.png";
 import amazon from "./amazon.png";
 import freshhub from "./freshhub.png";
+
 
 export {
   logo,
@@ -53,6 +55,7 @@ export {
   typescript,
   threejs,
   meta,
+  interra,
   shopify,
   starbucks,
   tesla,

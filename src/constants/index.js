@@ -23,6 +23,7 @@ import {
     linkedin,
     amazon,
     freshhub,
+    interra
   } from "../assets";
   
   export const navLinks = [
@@ -110,7 +111,7 @@ import {
     {
       title: "Software Engineer Trainee",
       company_name: "Interra IT",
-      icon: starbucks,
+      icon: interra,
       iconBg: "#383E56",
       date: "January 2022 - July 2022",
       points: [
@@ -123,7 +124,7 @@ import {
     {
       title: "Member of Technical Staff",
       company_name: "Interra IT",
-      icon: meta,
+      icon: interra,
       iconBg: "#E6DEDD",
       date: "July 2022 - Present",
       points: [
